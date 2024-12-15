@@ -1,28 +1,21 @@
 -- Liste des utilisateurs par rôle
 local owners = {
-    "Bapt-admin",
-    "Uther"
+    "Name1",
+    "Name2"
 }
 local admins = {
-    "thoph",
-    "Ethris",
-    "GHG",
-    "FireAdmin_999",
-    "WolfiAdmin_444",
-    "plus22",
-    "Kingtebi"
+    "Name1",
+    "Name2"
 }
 
 local builders = {
-    "King_build",
-    "Albadmin",
-    "jojo",
-    "Arsenic",
-    "-SkyBuilder-"
+    "Name1",
+    "Name2",
+    "Name3"
 }
 
 local moderators = {
-    "Kingtebi"
+    "Name1"
 }
 
 -- Fonction pour vérifier si une valeur est dans une table
