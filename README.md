@@ -1,2 +1,2 @@
 # Priv mod for MT (Luanti)
-Adapt it for tour own usage
+Adapt it for your own usage
